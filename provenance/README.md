@@ -71,7 +71,7 @@ Single file:
 
 ```text
 
-F:\\your\_folder\\example.md
+F:\\your_folder\\example.md
 
 
 
