@@ -11,7 +11,7 @@ This tool is released under the MIT License.
 
 Reuse, modification, redistribution, and commercial use are permitted under the terms of the MIT License. Keep the license notice with redistributed copies or modified versions.
 
-=============================================================================================================================================================================================================
+===================================================================================
 
 The script records selected file states by generating SHA-256 hashes and writing `.provenance` sidecar files. These records can later be used to check whether a file has changed since the snapshot was taken.
 
